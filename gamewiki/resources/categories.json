@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Body",
+        "file": "body.json",
+        "fields": {
+            "hull": "Hull",
+            "thrust": "Thrust"
+        }
+    },
+    {
+        "name": "Shield",
+        "file": "shield.json",
+        "fields": {
+            "shields": "Shields",
+            "cooldown": "Cooldown time"
+        }
+    },
+    {
+        "name": "Weapon",
+        "file": "weapon.json",
+        "fields": {
+            "damage": "Damage",
+            "projectiles": "Projectiles",
+            "rate": "Rate of fire"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "name": "Standard Shield",
+        "description": "Standard Shield is the default shield your ship possess in Nova Drift",
+        "image": "images/Standard_Shield.png",
+        "fields": {
+            "shields": 100,
+            "cooldown": 6.5
+        }
+    },
+    {
+        "id": 1,
+        "name": "Amp",
+        "description": "While Amp is active, +20% thrust and total weapon damage. Damage is further boosted for each threat inside the shield effect radius",
+        "image": "images/Amp.png",
+        "fields": {
+            "shields": 50,
+            "cooldown": 6
+        }
+    },
+    {
+        "id": 2,
+        "name": "Temporal",
+        "description": "Targets and projectiles within the shield's effect radius are greatly slowed",
+        "image": "images/Temporal.png",
+        "fields": {
+            "shields": 70,
+            "cooldown": 7.5
+        }
+    }
+]

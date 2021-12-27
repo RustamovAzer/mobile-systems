@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "name": "Standard Body",
+        "description": "Standard Body is the default body your ship possess in Nova Drift",
+        "image": "images/Standard_Body.png",
+        "fields": {
+            "hull": 100,
+            "thrust": 100
+        }
+    },
+    {
+        "id": 1,
+        "name": "Assault",
+        "description": "When you fire your weapon, it has a 8% chance of being empowered 15% improved rate of fire, projectile spread, and projectile velocity. +15% resistance to mobility-reducing effects from your weaponry. -10% maximum shields",
+        "image": "images/Assault.png",
+        "fields": {
+            "hull": 90,
+            "thrust": 100
+        }
+    },
+    {
+        "id": 2,
+        "name": "Spectre",
+        "description": "You begin to cloak while you are not firing your weapon or moving quickly Up to +250% total weapon damage when you fire while cloaked +1% cloak rate per your level Firing or moving quickly causes this bonus to rapidly diminish",
+        "image": "images/Spectre.png",
+        "fields": {
+            "hull": 100,
+            "thrust": 130
+        }
+    }
+]

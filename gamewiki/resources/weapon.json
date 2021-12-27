@@ -1,0 +1,35 @@
+[
+    {
+        "id": 0,
+        "name": "Blaster",
+        "description": "Blaster is the default weapon your ship possesses in Nova Drift. Twin bullets. Projectile size deteriorates over time",
+        "image": "images/Blaster.png",
+        "fields": {
+            "damage": 17,
+            "projectiles": 1,
+            "rate": 6
+        }
+    },
+    {
+        "id": 1,
+        "name": "Flak",
+        "description": "A deadly burst of shrapnel that shreds close-range targets. Doubles added projectiles gained from upgrades. Projectiles decelerate and degenerate over time",
+        "image": "images/Flak.png",
+        "fields": {
+            "damage": 45,
+            "projectiles": 12,
+            "rate": 1.5
+        }
+    },
+    {
+        "id": 2,
+        "name": "Railgun",
+        "description": "Fire a high-velocity, long-range projectile. Projectiles penetrate destroyed targets, creating a spray of shrapnel and dealing blast damage. Damage scales with projectile velocity",
+        "image": "images/Railgun.png",
+        "fields": {
+            "damage": 165,
+            "projectiles": 1,
+            "rate": 1.33
+        }
+    }
+]
